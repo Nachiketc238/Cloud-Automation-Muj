@@ -23,7 +23,7 @@
     "express",
     "devops"
   ],
-  "author": "Antigravity Pair Programmer",
+  "author": "Nachiketc238",
   "license": "MIT",
   "dependencies": {
     "express": "^4.21.2",
